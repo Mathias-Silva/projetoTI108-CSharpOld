@@ -1,0 +1,9 @@
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\bin\Debug\LojasABC.exe.config
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\bin\Debug\LojasABC.exe
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\bin\Debug\LojasABC.pdb
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\obj\Debug\LojasABC.csproj.AssemblyReference.cache
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\obj\Debug\LojasABC.Properties.Resources.resources
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\obj\Debug\LojasABC.csproj.GenerateResource.cache
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\obj\Debug\LojasABC.csproj.CoreCompileInputs.cache
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\obj\Debug\LojasABC.exe
+C:\Users\mathias.ssantos\OneDrive - SENAC - SP\Documentos\Visual Studio 2019\ProjetoTI108\EmpresaABC\LojasABC\obj\Debug\LojasABC.pdb
